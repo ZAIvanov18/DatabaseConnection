@@ -4,8 +4,5 @@ CREATE TABLE Player(
     Nationality VARCHAR(255) NOT NULL,
     Birth_date TIMESTAMP,
     Titles INTEGER,
-    PRIMARY KEY(TD)
-)
-
-SELECT * FROM Player;
-
+    PRIMARY KEY(ID)
+);
