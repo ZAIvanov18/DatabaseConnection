@@ -8,3 +8,4 @@ CREATE TABLE Player(
 )
 
 SELECT * FROM Player;
+
